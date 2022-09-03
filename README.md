@@ -1,7 +1,7 @@
 # Davies-Burgers
 A mini food cart for Davies Burgers that shows cart
 Adding functionality. 
-[https://davies-burgers.vercel.app/]
+[Check it out😁](https://davies-burgers.vercel.app/)
 # Getting Started with Create React App💫
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
